@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-# That Sky Mod
+# <center>That Sky Mod</center>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -14,10 +14,7 @@
   </p>
 </div>
 
-<!-- Release -->
-## Latest Release 
-[Download Latest Version](https://github.com/TheSR007/That_Sky_Mod_Release/releases)
-
+<!-- SOFTWARE IMAGE -->
 ![TSM Menu][product-screenshot]
 
 <!-- ABOUT THE PROJECT -->
