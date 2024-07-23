@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
-# <center>That Sky Mod</center>
+<div align="center">
+# That Sky Mod
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
   <a href="https://github.com/TheSR007/That_Sky_Mod">
     <img src="https://i.imgur.com/YrWC7Tz.jpeg" alt="Logo" width="80" height="80">
   </a>
@@ -12,10 +12,10 @@
     An all-in-one mod menu for Sky: CoTL
     <br />
   </p>
-</div>
 
 <!-- SOFTWARE IMAGE -->
 ![TSM Menu][product-screenshot]
+</div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
