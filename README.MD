@@ -25,10 +25,6 @@ TSM, or That Sky Mod, was created with the ultimate goal of being the only mod y
 - **User-Friendly Interface:** Designed with simplicity and usability in mind, the TSM interface allows both novice and experienced users to easily access and configure various mod features.
 - **Comprehensive Functionality:** From gameplay enhancements to aesthetic modifications, TSM covers a wide spectrum of features to enrich your Sky experience.
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
 ## Contact
 
 TMC [That Modding Community] - [Discord](https://discord.gg/h8sRenYG6H)
