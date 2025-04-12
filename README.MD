@@ -27,4 +27,4 @@ TSM, or That Sky Mod, was created with the ultimate goal of being the only mod y
 
 ## Disclaimer
 
-I, [TheSR](https://github.com/TheSR007), Retired and currently The Project is maintained by [Lukas](https://github.com/Lukas0x1) along with private Server and The Latest Version is maintained by [Trinity](https://github.com/XeTrinityZ) which can be found [here](https://github.com/XeTrinityZ/ThatSkyMod)
+I, [TheSR](https://github.com/TheSR007), Retired and currently The Project is maintained by [Trinity](https://github.com/XeTrinityZ) which can be found [here](https://github.com/XeTrinityZ/ThatSkyMod)
