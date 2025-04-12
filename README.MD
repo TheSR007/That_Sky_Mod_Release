@@ -18,7 +18,6 @@
 ## About The Project
 
 TSM, or That Sky Mod, was created with the ultimate goal of being the only mod you will ever need while playing Sky. Our vision is to enhance the gaming experience by integrating a wide range of functionalities, all accessible through a user-friendly interface. We strive to make TSM a comprehensive toolkit that simplifies modding and provides endless customization options, enabling you to tailor your Sky experience to your preferences.
-#### This repo also Includes ThatSkyServer which is meant to be Local Server and played in Single Player and includes everything from ingame and supports sky <= V26.3
 
 ### Key Features:
 
